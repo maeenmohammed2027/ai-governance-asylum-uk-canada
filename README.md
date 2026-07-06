@@ -31,4 +31,4 @@ trustworthy AI in the NIST AI Risk Management Framework (AI RMF 1.0).
 ## Author
 
 Humanitarian data and information management professional (UNHCR/WFP,
-2010–2024) | MSc Data Science candidate | [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+2010–2024) | MSc Data Science candidate | [[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)](https://www.linkedin.com/in/maeen-mohammed/)
